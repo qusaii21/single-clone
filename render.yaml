@@ -1,0 +1,14 @@
+# Render.com deployment for FastAPI backend
+# Deploy at: https://render.com → New Web Service → connect GitHub repo
+#
+# Settings to enter in Render dashboard:
+#   Root Directory:   backend
+#   Build Command:    pip install -r requirements.txt
+#   Start Command:    uvicorn main:app --host 0.0.0.0 --port $PORT
+#   Environment:      Python 3.11
+#
+# Environment variables to set:
+#   SECRET_KEY        (generate a strong random string)
+#   CORS_ORIGINS      ["https://your-netlify-app.netlify.app"]
+
+# This file is documentation only — Render reads settings from the dashboard.
