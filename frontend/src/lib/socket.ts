@@ -21,7 +21,7 @@ class SocketManager {
   }
 
   private _connect() {
-    const wsBase = (process.env.NEXT_PUBLIC_WS_URL || "ws://localhost:8000/api");
+    const wsBase = (process.env.NEXT_PUBLIC_WS_URL || "wss://single-clone.onrender.com");
     const url = `${wsBase}/messages/ws/${this.token}`;
     this.ws = new WebSocket(url);
 
