@@ -35,6 +35,29 @@ A production-leaning Signal Messenger clone built as a full-stack web applicatio
 - 🟢 **Online presence** — live online/offline indicators
 
 ---
+## Screenshots
+
+<table>
+  <tr>
+    <td><img width="100%" alt="Chat view" src="https://github.com/user-attachments/assets/b650ea9d-175d-4fb8-bedf-afca1410ac41" /></td>
+    <td><img width="100%" alt="Conversation list" src="https://github.com/user-attachments/assets/fecc8c08-d74d-4215-8cc7-0cec9510a3c8" /></td>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Group chat" src="https://github.com/user-attachments/assets/82f230d7-ebe5-48ef-a96d-5792cca8891c" /></td>
+    <td><img width="100%" alt="Message bubbles" src="https://github.com/user-attachments/assets/30a0d3f8-4a59-4349-b7cb-ae9d1065805f" /></td>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Emoji reactions" src="https://github.com/user-attachments/assets/d1eda003-686f-44d8-a6cb-97d619f3fddf" /></td>
+    <td><img width="100%" alt="Reaction chips" src="https://github.com/user-attachments/assets/d1531f41-728e-420f-a64c-a3c4dafeefce" /></td>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Settings page" src="https://github.com/user-attachments/assets/6873828c-1eb2-4336-9add-a6aae71d542e" /></td>
+    <td><img width="100%" alt="Login page" src="https://github.com/user-attachments/assets/21ef839c-07c5-40a4-aef4-4c53929b0bef" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img width="50%" alt="Encryption banner" src="https://github.com/user-attachments/assets/848c6aa7-a1e2-45bb-8735-299b4c67347c" /></td>
+  </tr>
+</table>
 
 ## Quick Start
 
@@ -250,27 +273,5 @@ Event types received: `new_message`, `message_read`, `typing`, `presence`, `reac
 
 ---
 
-## Screenshots
 
-<table>
-  <tr>
-    <td><img width="100%" alt="Chat view" src="https://github.com/user-attachments/assets/b650ea9d-175d-4fb8-bedf-afca1410ac41" /></td>
-    <td><img width="100%" alt="Conversation list" src="https://github.com/user-attachments/assets/fecc8c08-d74d-4215-8cc7-0cec9510a3c8" /></td>
-  </tr>
-  <tr>
-    <td><img width="100%" alt="Group chat" src="https://github.com/user-attachments/assets/82f230d7-ebe5-48ef-a96d-5792cca8891c" /></td>
-    <td><img width="100%" alt="Message bubbles" src="https://github.com/user-attachments/assets/30a0d3f8-4a59-4349-b7cb-ae9d1065805f" /></td>
-  </tr>
-  <tr>
-    <td><img width="100%" alt="Emoji reactions" src="https://github.com/user-attachments/assets/d1eda003-686f-44d8-a6cb-97d619f3fddf" /></td>
-    <td><img width="100%" alt="Reaction chips" src="https://github.com/user-attachments/assets/d1531f41-728e-420f-a64c-a3c4dafeefce" /></td>
-  </tr>
-  <tr>
-    <td><img width="100%" alt="Settings page" src="https://github.com/user-attachments/assets/6873828c-1eb2-4336-9add-a6aae71d542e" /></td>
-    <td><img width="100%" alt="Login page" src="https://github.com/user-attachments/assets/21ef839c-07c5-40a4-aef4-4c53929b0bef" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img width="50%" alt="Encryption banner" src="https://github.com/user-attachments/assets/848c6aa7-a1e2-45bb-8735-299b4c67347c" /></td>
-  </tr>
-</table>
 
