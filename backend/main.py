@@ -38,6 +38,7 @@ app = FastAPI(
 )
 
 # CORS – allow all origins (local dev + Vercel + any deployment)
+# allow_credentials must be False when allow_origins=["*"] (browser CORS spec)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
