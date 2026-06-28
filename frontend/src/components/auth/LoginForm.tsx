@@ -172,12 +172,12 @@ export default function LoginPage() {
             <>
               <h2 className="text-lg font-semibold text-[#e9edef] mb-1">Sign in</h2>
               <p className="text-xs text-[#8696a0] mb-5">
-                Demo: <span className="text-[#3a76f0]">alice / password123</span>
+                Demo: <span className="text-[#3a76f0]">qusai / password123</span>
               </p>
               <form onSubmit={handleLogin} className="flex flex-col gap-4">
                 <Input
                   label="Username"
-                  placeholder="alice"
+                  placeholder="qusai"
                   value={username}
                   onChange={(e) => setUsername(e.target.value)}
                   required
